@@ -5,3 +5,17 @@ Characteristics of Open Source Models
 3. Data Privacy: Run locally (No data sent to the external servers)
 4. Customization: Can fine tune on specific datasets
 5. Deployment: Can be deployed on on-premise servers or cloud
+
+
+Disadvantages:
+
+1. High Hardware Requirements: Running large models (e.g. LLaMa-2-70B) requires expensive GPUs
+2. Setup Complexity: Requires installation of dependencies like PyTorch, CUDA, transformers
+3. Lack of RLHF: Most open source models don't have fine-tuning with human feedback, making them weaker in instruction-following (The answers that I'm getting is a bit less refined)
+4. Limited Multimodal abilities: Open models don't support images, audio or video like GPT-4V
+
+
+Ways to use Open Source Models
+
+1. Using Hugging Face Inference API
+2. Running it locally
