@@ -1,0 +1,7 @@
+Characteristics of Closed Source Models
+
+1. Cost: Paid API usage (e.g. OpenAI charges per token)
+2. Control: Locked to provider's infrastructure
+3. Data Privacy: Sends queries to provider's servers
+4. Customization: No access to fine-tuning on most cases
+5. Deployment: Must use vendor's API

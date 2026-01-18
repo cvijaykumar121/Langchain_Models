@@ -1,0 +1,7 @@
+Characteristics of Open Source Models
+
+1. Cost: Free to use (No Api costs)
+2. Control: Can modify, fine tune and deploy anywhere
+3. Data Privacy: Run locally (No data sent to the external servers)
+4. Customization: Can fine tune on specific datasets
+5. Deployment: Can be deployed on on-premise servers or cloud
